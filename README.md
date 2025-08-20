@@ -8,8 +8,6 @@ Projeto desenvolvido para gerenciar personagens e campanhas de Dungeons & Dragon
 - [Instalação](#instalação)
 - [Como usar](#como-usar)
 - [Tecnologias](#tecnologias)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Descrição
 
